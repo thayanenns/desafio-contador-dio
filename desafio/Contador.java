@@ -31,7 +31,5 @@ public class Contador {
                 System.err.println("Imprimindo o número: " + i);
             }
          }
-       
-		//realizar o for para imprimir os números com base na variável contagem
-	}
+    }
 }
